@@ -7,6 +7,11 @@ Features:
 
 ![](https://screen.rexum.space/ypNAy2ZJYo.png?key=nt4CDbujrfXrPo)
 
+### Requirements:
+
+- Volumio
+- DiscordBot-Token
+
 ### Setup:
 
 Goto [volumio.local/dev](http://volumio.local/dev/) and Enable SSH.
