@@ -25,3 +25,5 @@ Run `sudo apt update -y && sudo apt install python3-pip python3 git screen libop
 Paste your Token and press Str. + X 
 
 ![](https://screen.rexjohannes.space/tcXC6LQskP.png?key=0Ybkr2jj6lqrtv)
+
+To run the Bot type `bash run.sh` and press Str. + A + D
