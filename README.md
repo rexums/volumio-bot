@@ -9,5 +9,6 @@ Features:
 
 Setup:
 
-Goto [volumio.local/dev](http://volumio.local/dev/) and Enable SSH. \n
+Goto [volumio.local/dev](http://volumio.local/dev/) and Enable SSH.
+
 Then open [Putty](https://putty.org/) and type `volumio` as username and password.
