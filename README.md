@@ -20,4 +20,4 @@ Then open [Putty](https://putty.org/) and connect to `volumio.local` and type `v
 
 ![](https://screen.rexjohannes.space/W1kMjsTkeD.png?key=YnET6duo5HttuE)
 
-Run `bash <(wget -O - 'https://raw.githubusercontent.com/rexjohannes/volumio-bot/main/install.sh')` in your Putty
+Run `bash <(wget -O - 'https://raw.githubusercontent.com/rexjohannes/volumio-bot/main/install.sh')` in your Putty. Enter `volumio` as password.
