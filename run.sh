@@ -1,1 +1,1 @@
-screen -S volumiobot python3.9 main.py
+screen -S volumiobot python3.6 main.py
